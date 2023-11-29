@@ -1,0 +1,29 @@
+*{
+    background-color: aquamarine;
+}
+
+.centralizando-div {
+    text-align: center;
+    padding-top: 100px;
+    position: relative;
+    top: 20px;
+    left: 100px; 
+}
+
+.primeira-div{
+    background-color: rgb(230, 79, 79);
+    height: 180px;
+    width: 180px;
+}
+
+.segunda-div{
+    background-color: lightgreen;
+    height: 180px;
+    width: 180px;
+}
+
+.terceira-div{
+    background-color: lightseagreen;
+    height: 180px;
+    width: 180px;
+}
